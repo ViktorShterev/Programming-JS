@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "02.Post-Task_Resources",
+			"path": "../../../../../../Downloads/02.Post-Task_Resources"
+		},
+		{
+			"name": "03.Course-Planner_Resources",
+			"path": "../../../../../../Downloads/03.Course-Planner_Resources"
+		},
+		{
+			"name": "Exam Prep 3",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "02.Post-Task_Resources"
+	}
+}
